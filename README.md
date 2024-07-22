@@ -1,5 +1,9 @@
 # Mitsubishi Electric Coding Exercise
 
+## [Problem Definition](ProblemDefinition.md)
+
+## Solution  
+
 This application was developed using .Net Core 6 and includes a simple C# class library based service layer with a console client.
 
 Additionally there is a unit test project for testing the main functionality for each shape to ensure it complies with requirements.
