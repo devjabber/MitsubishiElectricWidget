@@ -1,6 +1,6 @@
 # Mitsubishi Electric Coding Exercise
 
-## [Back to ReadMe](ReadMe.md)
+## [Back to ReadMe](README.md)
 
 ## Problem Definition
 
